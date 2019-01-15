@@ -1,3 +1,4 @@
 Print («Hello world»)
 print ("LOLOLL")
 Print ("sfdfdfdf")
+Print ("Hello my dear friend")
