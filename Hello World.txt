@@ -1,5 +1,7 @@
-Print («Hello world»)
-print ("LOLOLL")
-Print ("sfdfdfdf")
-Print ("Hello my dear friend")
-Print ("Advanced hello my friend")
+
+Print («Hello world;»)
+print ("LOLOLL;")
+Print ("Hello my dear friend;")
+Print ("Advanced hello my friend;")
+Print («Hello world;»)
+
