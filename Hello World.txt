@@ -4,4 +4,5 @@ print ("LOLOLL;")
 Print ("Hello my dear friend;")
 Print ("Advanced hello my friend;")
 Print («Hello world;»)
+Print ("Hola Que Tal?")
 
